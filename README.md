@@ -1,53 +1,71 @@
 <!-- GitHub Profile README — joakocoll -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=7EE787&center=true&vCenter=true&width=500&lines=Hey%2C+soy+Joaqu%C3%ADn+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps;Python+%7C+Java+%7C+C%23+%7C+Linux" alt="Typing SVG" />
-</h1>
+<h1 align="center">Joaquín Collaud</h1>
 
 <p align="center">
   <strong>Backend Engineer · DevOps · Security enthusiast</strong><br/>
   Argentina 🇦🇷 · Estudiante de Cs. de la Computación (UBA)
 </p>
 
----
+<p align="center">
+  Builder apasionado por sistemas robustos, infraestructura real y software que resuelve problemas concretos.
+</p>
 
-### 🧠 Sobre mí
+<hr>
 
-Builder apasionado por sistemas robustos, infraestructura real y software que resuelve problemas concretos.
-Actualmente estudiando Ciencias de la Computación en la UBA. 🎓
+<h2 align="center">🛠️ Skills</h2>
 
----
+<div align="center">
+  <h3>Languages</h3>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" />
+</div>
 
-### 🛠️ Stack principal
+<div align="center">
+  <h3>Frameworks & Libraries</h3>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7ee787)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7ee787)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ff7b72)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=ff7b72)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=e3b341)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=flat-square&logo=dotnet&logoColor=e3b341)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7ee787)
-![MariaDB](https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=7ee787)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7ee787)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=39d353)
-![Svelte](https://img.shields.io/badge/Svelte-0d1117?style=flat-square&logo=svelte&logoColor=ffa657)
+<div align="center">
+  <h3>Databases</h3>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MariaDB/MySQL" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" />
+</div>
 
----
+<div align="center">
+  <h3>Infrastructure & DevOps</h3>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Debian/Ubuntu" />
+</div>
 
-### ☁️ Infraestructura & DevOps
+<div align="center">
+  <h3>Tools & Editors</h3>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" title="Vite" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch/CUDA" />
+</div>
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-0d1117?style=flat-square&logo=ubuntu&logoColor=39d353)
-![KVM](https://img.shields.io/badge/KVM%2FQEMU-0d1117?style=flat-square&logo=qemu&logoColor=39d353)
-![Proxmox](https://img.shields.io/badge/Proxmox-0d1117?style=flat-square&logo=proxmox&logoColor=58a6ff)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=58a6ff)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-0d1117?style=flat-square&logo=docker&logoColor=7ee787)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=e3b341)
+<hr>
 
----
+<h2 align="center">🚀 Proyectos destacados</h2>
 
-### 🚀 Proyectos destacados
-
-#### 🏛️ [ClubsCuotas](https://github.com/joakocoll/clubCluotas)
+### 🏛️ [ClubsCuotas](https://github.com/joakocoll/clubCluotas)
 Sistema full-stack para la **gestión integral de socios y control de cuotas** de clubes.
 Arquitectura de microservicios contenerizada con contextos de build aislados en monorepo.
 
@@ -59,48 +77,43 @@ clubsCuotas/
 └── docker-compose.yml
 ```
 
-> Frontend Vite proxea todas las rutas `/api/*` al contenedor backend via red Docker, sin CORS issues.
-
 `Python 3.12` · `FastAPI` · `SQLAlchemy` · `Svelte + Vite` · `MariaDB 10.11` · `Docker Compose`
 
 ---
 
-#### 🎙️ [Whisper Audio CLI](https://github.com/joakocoll/whisper-cli)
+### 🎙️ [Whisper Audio CLI](https://github.com/joakocoll/whisper-cli)
 CLI para **transcribir audios y buscar coincidencias** por palabras clave o frases usando Whisper + Fuzzy matching.
 Soporta `.wav` · `.mp3` · `.m4a` · `.ogg` — GPU opcional vía CUDA/PyTorch.
-
-```
-1) Transcribir un archivo de audio
-2) Buscar por palabras clave en un directorio
-3) Buscar por frase con coincidencia fuzzy
-4) Cambiar modelo Whisper
-```
 
 `Python 3.9+` · `OpenAI Whisper` · `thefuzz` · `ffmpeg` · `CUDA (opcional)` · `MIT License`
 
 ---
 
-#### 🖥️ Home Lab Server
+### 🖥️ Home Lab Server
 Stack propio con KVM, Docker Compose, **backups multicapa** (Rclone + ZSTD), bot de monitoreo de red vía Telegram y graceful shutdown ante cortes de luz.
+
 `Ubuntu 24.04` · `KVM/Libvirt` · `Docker` · `Bash` · `Systemd`
 
----
+<hr>
 
-### 🎓 Educación
+<h2 align="center">🎓 Educación</h2>
 
-- 🎓 **Lic. en Ciencias de la Computación** — UBA *(en curso)*
-- ⚙️ **Técnico Universitario en Programación** — UTN
-- 🔐 **Diplomado en Redes Linux + Ciberseguridad** — UTN Delta
+<p align="center">
+🎓 Lic. en Ciencias de la Computación — UBA <em>(en curso)</em><br/>
+⚙️ Técnico Universitario en Programación — UTN<br/>
+🔐 Diplomado en Redes Linux + Ciberseguridad — UTN Delta
+</p>
 
----
-
-### 📬 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/joaquin-collaud)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ff7b72)](mailto:joakofedercoll@gmail.com)
-
----
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joakocoll&show_icons=true&theme=github_dark&hide_border=true&title_color=7ee787&icon_color=7ee787" />
+</p>
+
+<hr>
+
+<p align="center">
+  📍 Argentina &nbsp;·&nbsp; 🌐 English B2+<br/>
+  <a href="mailto:joakofedercoll@gmail.com">joakofedercoll@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/joaquin-collaud">LinkedIn</a>
 </p>
