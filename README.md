@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Backend Engineer · DevOps · Security enthusiast</strong><br/>
-  Argentina 🇦🇷 · Estudiante de Cs. de la Computación (UBA)
+ T Técnico universitario en Programación (UTN) · Argentina 🇦🇷 
 </p>
 
 <p align="center">
